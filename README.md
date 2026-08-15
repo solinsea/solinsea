@@ -12,18 +12,21 @@
 
 <br><br>
 
-
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7a3e,100:0d1117&height=60&width=1000&animation=twinkling" />
 
 </div>
 
 ## 👋 About Me
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a7a3e,100:0d1117&height=70&width=800&text=Who%20Am%20I&fontSize=18&fontColor=39FF14&animation=twinkling&fontAlignY=55" />
+
+<br><br>
 
 ```yaml
 name: Solin Sea
@@ -40,13 +43,17 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7a3e,100:0d1117&height=60&width=1000&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
 ## 🌐 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a7a3e,100:0d1117&height=70&width=800&text=Let's%20Connect&fontSize=18&fontColor=39FF14&animation=twinkling&fontAlignY=55" />
+
+<br><br>
 
 <a href="https://facebook.com/solinsea" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1877F2,100:0d1117&height=55&width=190&text=%F0%9F%93%98%20Facebook&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" /></a>
 <a href="https://tiktok.com/@seasolin" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=55&width=190&text=%F0%9F%8E%B5%20TikTok&fontSize=18&fontColor=39FF14&animation=twinkling&fontAlignY=65" /></a>
@@ -62,11 +69,15 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7a3e,100:0d1117&height=60&width=1000&animation=twinkling" />
 
 </div>
 
 ## 💻 Tech Stack
+
+<div align="center">
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a7a3e,100:0d1117&height=90&width=1000&text=Tools%20%26%20Technologies&fontSize=22&fontColor=39FF14&animation=twinkling&fontAlignY=55" /> -->
+</div>
 
 <div align="center">
 
@@ -151,11 +162,15 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7a3e,100:0d1117&height=60&width=1000&animation=twinkling" />
 
 </div>
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a7a3e,100:0d1117&height=90&width=1000&text=My%20Numbers&fontSize=22&fontColor=39FF14&animation=twinkling&fontAlignY=55" />
+</div>
 
 <div align="center">
 
@@ -163,6 +178,10 @@ fun_fact: I enjoy turning rough ideas into polished products
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=solinsea&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" />
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=500&lines=Streak+in+progress...;Keep+the+fire+going+%F0%9F%94%A5" />
+
+<br>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=solinsea&theme=chartreuse-dark&hide_border=true&border_radius=12" />
 
@@ -174,23 +193,28 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7a3e,100:0d1117&height=60&width=1000&animation=twinkling" />
 
 </div>
 
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=solinsea&theme=chartreuse-dark&no-frame=true&no-bg=false&margin-w=8&row=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a7a3e,100:0d1117&height=90&width=1000&text=Achievements&fontSize=22&fontColor=39FF14&animation=twinkling&fontAlignY=55" />
+</div>
+
+<div align="center">
+<!-- <img src="https://drive.google.com/file/d/1UTdSa5oojLJYahfQQX7SvI7zpDfKmvW6/view?usp=sharing" /> -->
+
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a7a3e,100:0d1117&height=60&width=1000&animation=twinkling" />
 
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 End
 
 <!-- 
   ⚠️ Setup required: this image only appears AFTER you add the GitHub Action
@@ -198,7 +222,7 @@ fun_fact: I enjoy turning rough ideas into polished products
   Until then this line will show as a broken image / plain link — that's expected.
 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/solinsea/solinsea/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
+<!-- <img src="https://raw.githubusercontent.com/solinsea/solinsea/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" /> -->
 </div>
 
 <br>
