@@ -12,7 +12,6 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
@@ -39,10 +38,6 @@ fun_fact: I enjoy turning rough ideas into polished products
 - 🎨 Just as comfortable in Photoshop as in VS Code
 - 📫 Best way to reach me — see socials below
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385fa93ff5.gif" width="120">
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0d1117&height=3&width=1000" />
@@ -62,8 +57,6 @@ fun_fact: I enjoy turning rough ideas into polished products
 <a href="https://facebook.com/solinsea" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="https://tiktok.com/@seasolin" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
 <a href="mailto:seasolin08@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100">
 
 </div>
 
@@ -166,9 +159,6 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br>
-
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=solinsea&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" />
 <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=solinsea&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=12" />
 
@@ -191,8 +181,6 @@ fun_fact: I enjoy turning rough ideas into polished products
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70">
-<br>
 <img src="https://github-profile-trophy.vercel.app/?username=solinsea&theme=chartreuse-dark&no-frame=true&no-bg=false&margin-w=8&row=1" />
 </div>
 
@@ -204,6 +192,11 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 ## 🐍 Contribution Snake
 
+<!-- 
+  ⚠️ Setup required: this image only appears AFTER you add the GitHub Action
+  workflow below to your solinsea/solinsea repo and it runs once (or you push a commit).
+  Until then this line will show as a broken image / plain link — that's expected.
+-->
 <div align="center">
 <img src="https://raw.githubusercontent.com/solinsea/solinsea/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%" />
 </div>
@@ -213,10 +206,6 @@ fun_fact: I enjoy turning rough ideas into polished products
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=%22Code+is+the+closest+thing+we+have+to+magic.%22" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 <br><br>
 
