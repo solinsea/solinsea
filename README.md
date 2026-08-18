@@ -183,7 +183,7 @@ fun_fact: I enjoy turning rough ideas into polished products
 
 <br>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=solinsea&theme=chartreuse-dark&hide_border=true&border_radius=12" />
+<!-- <img width="70%" src="https://streak-stats.demolab.com/?user=solinsea&theme=chartreuse-dark&hide_border=true&border_radius=12" /> -->
 
 <br><br>
 
